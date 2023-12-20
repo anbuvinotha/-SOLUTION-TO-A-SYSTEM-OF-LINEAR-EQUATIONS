@@ -15,6 +15,10 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program: 
 ```
+#Program to find the solution in the given linear equations
+#Developed by: Anbuvinotha.S
+#Reference number: 23013363
+
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 B=np.array([-9,4,-1])
@@ -24,7 +28,7 @@ print(le)
 ```
 
 ## Output:
-![output](<solving equation_ss.png>)
+![output](<solving equation ss2.png>)
 
 
 
